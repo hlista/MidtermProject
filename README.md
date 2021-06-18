@@ -1,4 +1,4 @@
-# MidtermServer
+# MidtermProject
 
 Midterm Project for learn-elixir.dev
 
